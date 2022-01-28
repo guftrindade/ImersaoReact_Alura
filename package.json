@@ -14,5 +14,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
-  }
+  },
+  "repository": "https://github.com/guftrindade/ImersaoReact_Alura.git",
+  "author": "Gustavo Trindade <gustavoferreiratrindade@gmail.com>"
 }
